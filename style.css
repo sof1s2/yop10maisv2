@@ -1,0 +1,65 @@
+	body {
+	    text-align: center;
+	    background-color: rgb(209, 237, 255);
+	    color: #4498dd;
+	}
+
+    h1:hover{
+        color: blueviolet;
+    }
+    img:hover{
+        opacity: 1;
+        border: 2px rgb(255, 24, 151);
+    }
+  
+
+	#tombraider {
+	    width: 30%;
+	    heigth: 30%;
+	}
+
+	#legob {
+	    width: 30%;
+	    height: 30%;
+	}
+
+	#unc3 {
+	    width: 30%;
+	    heigth: 20%;
+	}
+
+	#gris {
+	    width: 30%;
+	    heigth: 20%;
+	}
+
+	#lbp {
+	    width: 30%;
+	    heigth: 30%;
+	}
+
+	#rise {
+	    width: 30%;
+	    heigth: 30%;
+	}
+
+	#lis2 {
+	    width: 30%;
+	    heigth: 30%;
+	}
+
+
+	#lis {
+	    width: 30%;
+	    heigth: 30%;
+	}
+
+	#detroid {
+	    width: 30%;
+	    heigth: 40%;
+	}
+
+	#tlou {
+	    width: 30%;
+	    heigth: 40%;
+	}
