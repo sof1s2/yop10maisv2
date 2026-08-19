@@ -9,7 +9,8 @@
     }
     img:hover{
         opacity: 1;
-        border: 2px rgb(255, 24, 151);
+        border: 2px rgb(255, 133, 194) solid;
+        zoom: 1.25;
     }
   
 
